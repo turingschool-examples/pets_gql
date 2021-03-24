@@ -20,4 +20,8 @@ CREATE DATABASE furbabies;
 
 * Seed database `knex seed:run`
 
-Use this [walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough) to get started.
+Use the walkthroughs below:
+
+[Queires Walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough_queries)
+
+[Mutations Walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough_mutations)
